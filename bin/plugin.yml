@@ -1,0 +1,15 @@
+name: MyMod Stuff
+main: MyMod.Core.Main
+version: 1.0
+author: globnobulous ( bugfix + some new features by m0rkeulv)
+description: A modified version of RailDriver made to work with Bukkit 1.4.7 and later
+commands:
+   spawn:
+      description: Teleports player to spawn
+      usage: /<command> [player]
+   rip:
+      description: Teleports to last position before death
+      usage: /<command>
+   encase:
+      description: encases player in glass
+      usage: /<command> [size]
